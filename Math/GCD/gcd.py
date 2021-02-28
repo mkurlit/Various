@@ -19,5 +19,3 @@ class GCD:
             store_path.append(rr0 % rr1)
         
         return store_path
-
-test = GCD(301, 973)
